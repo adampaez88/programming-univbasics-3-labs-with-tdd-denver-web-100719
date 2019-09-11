@@ -27,9 +27,9 @@ end
 multiplying(product)
 
 
-qoutient = first_number / second_number
-def dividing(qoutient)
-  qoutient
+quotient = first_number / second_number
+def dividing(quotient)
+  quotient
 end
 
-dividing(qoutient)
+dividing(quotient)
