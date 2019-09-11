@@ -19,9 +19,9 @@ end
 subtract(difference)
 
 
-multiplying = first_number * second_number
-def product(multiplying)
-  multiplying
+product = first_number * second_number
+def multiplying(product)
+  product
 end
 
-product(multiplying)
+multiplying(product)
