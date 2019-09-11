@@ -9,3 +9,11 @@ def add(sum)
 end
 
 add(sum)
+
+
+difference = first_number - second_number
+def subtract(difference)
+  difference
+end
+
+subtract(difference)
