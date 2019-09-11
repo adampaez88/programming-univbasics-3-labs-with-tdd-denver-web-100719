@@ -20,8 +20,8 @@ subtract(difference)
 
 
 multiplying = first_number * second_number
-def times(multiplying)
+def multiply(multiplying)
   multiplying
 end
 
-times(multiplying)
+multiply(multiplying)
