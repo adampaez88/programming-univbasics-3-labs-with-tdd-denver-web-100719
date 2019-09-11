@@ -5,7 +5,7 @@ second_number = 1
 
 sum = first_number + second_number
 def add(sum)
-  first_number + second_number
+  sum
 end
 
 add(sum)
