@@ -17,3 +17,11 @@ def subtract(difference)
 end
 
 subtract(difference)
+
+
+multiplying = first_number * second_number
+def times(multiplying)
+  multiplying
+end
+
+times(multiplying)
