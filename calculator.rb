@@ -25,3 +25,11 @@ def multiplying(product)
 end
 
 multiplying(product)
+
+
+qoutient = first_number / second_number
+def dividing(qoutient)
+  qoutient
+end
+
+dividing(qoutient)
